@@ -1,28 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO 2 4K
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218716
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO Family 4K
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218717
-#EXTINF:-1 tvg-id="" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO 4K
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218718
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO POP 4K
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218719
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO XTREME 4K
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218720
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218721
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO MUNDI
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218722
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO2
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218723
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO Family HD
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218724
-#EXTINF:-1 tvg-id="" tvg-name="HBO 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO 4K+
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218725
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO Plus 4K+
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218726
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO XTREME 4K+
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218727
-#EXTINF:-1 tvg-id="" tvg-name="HBO2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO2 4K+
-http://restreamus.com:8080/DgnATdbyJkeG/wPFzxx2u82sp/218728
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://id.wikipedia.org/wiki/HBO#/media/Berkas:HBO_logo.svg" group-title="TV [HBO]",HBO Max
+http://pack2.xyz:80/play/live.php?mac=00:1A:79:44:06:CA&stream=970637&extension=m3u8
