@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://id.wikipedia.org/wiki/HBO#/media/Berkas:HBO_logo.svg" group-title="TV [HBO]",HBO Max
-http://pack2.xyz:80/play/live.php?mac=00:1A:79:44:06:CA&stream=970637&extension=m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/vjmqsstn3lmsuza/championstv1.png" group-title="SPORTS",Champions TV 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/r4k7e0ivmttaivj/championstv2.png" group-title="SPORTS",Champions TV 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/gmtcrfkj7j0fcua/championstv3.png" group-title="SPORTS",Champions TV 3
+
